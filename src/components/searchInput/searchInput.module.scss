@@ -1,0 +1,36 @@
+.container{
+  height: 64px;
+  background: #fff;
+  z-index: 1;
+}
+
+.wrapper{
+  border-radius: 6px;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  background: #EFEFEF;
+}
+.wrapperSearch{
+  background: #F4F6FA;
+}
+.searchImg{
+  position: absolute;
+  width: 28px;
+  height:28px;
+  top:0;
+  bottom:0;
+  left:32px;
+  z-index: 1;
+  display: block;
+  margin: auto;
+}
+.searchInput{
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding-left: 92px;
+  font-size: 30px;
+  color: #21222D;
+}

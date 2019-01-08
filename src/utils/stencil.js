@@ -1,0 +1,22 @@
+export default {
+	stencil_card_1:10001,
+	stencil_card_2:10002,
+	stencil_product_1:12001,
+	stencil_product_2:12002,
+	stencil_product_3:12003,
+	stencil_com_product_1:18001,
+	stencil_com_product_2:18002,
+	stencil_com_product_3:18003,
+	stencil_show_1:22001,
+	stencil_show_2:22002,
+	stencil_show_4:22004,
+	stencil_show_5:22005,
+	stencil_show_6:22006,
+	stencil_show_7:22007,
+	stencil_com_show_1:23001,
+	stencil_com_show_2:23002,
+	stencil_com_show_4:23004,
+	stencil_com_show_5:23005,
+	stencil_com_show_6:23006,
+	stencil_com_show_7:23007
+}

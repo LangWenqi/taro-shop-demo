@@ -1,0 +1,33 @@
+
+.list{
+  padding-left:32px;
+  overflow: auto;
+}
+.item{
+  width: 240px;
+  margin-bottom: 18px;
+  margin-right: 18px;
+}
+.imgWrapper{
+  width: 240px;
+  height: 240px;
+  overflow: hidden;
+}
+.font{
+  color:#282935;
+  font-size:28px;
+  overflow : hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding-top: 8px;
+}
+.price{
+  color:#D62430;
+  font-size:32px;
+  font-family: Semibold;
+  font-weight: bold;
+  padding-top: 8px;
+}
+.space{
+  padding-right: 14px;
+}

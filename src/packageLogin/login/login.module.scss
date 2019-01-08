@@ -1,0 +1,40 @@
+.container{
+  background: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.img{
+  position: absolute;
+  width: 750px;
+  height: 726px;
+  display: block;
+}
+.fontWrapper {
+  padding-top: 160px;
+
+}
+.bigFont {
+  font-size: 96px;
+  color: #000000;
+  padding: 24px 0;
+}
+.smallFont {
+  font-size: 48px;
+  color: #000000;
+}
+.btn {
+  width: 600px;
+  height: 94px;
+  background: #fd4d4d;
+  border-radius: 192px;
+  font-size: 32px;
+  color: #ffffff;
+  position: absolute;
+  bottom: 300px;
+  left: 0;
+  right: 0;
+  margin: auto;
+}

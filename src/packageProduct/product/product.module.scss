@@ -1,0 +1,80 @@
+.container {
+  padding-bottom: 100px;
+}
+
+.bottom {
+  height: 100px;
+  background: #fff;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  box-shadow: 0px -2px 4px 0px rgba(165, 165, 165, 0.37);
+}
+
+.left {
+  width: 0;
+  height: 100%;
+  padding: 0 30px;
+  box-sizing: border-box;
+}
+
+.right {
+  width: 0;
+  height: 100%;
+  background: #d03538;
+  color: #fff;
+  font-size: 32px;
+}
+
+.btn {
+  width: 0;
+}
+
+.btnImg {
+  display: block;
+  margin: 0 auto;
+  width: 64px;
+  height: 64px;
+}
+
+.btnFont {
+  text-align: center;
+  color: #BABABA;
+  font-size: 24px;
+}
+
+.swiper {
+  width: 100%;
+  height: 750px;
+  position: relative;
+}
+
+.count {
+  composes: count from '../../components/itemSwiper/itemSwiper.module.scss';
+}
+
+.content {
+  padding: 32px 28px;
+  border-bottom: 2px solid #EAEAEA;
+}
+
+.title {
+  color: #282935;
+  font-size: 32px;
+  display: block;
+  text-align: justify;
+}
+.priceWrapper{
+  padding-top: 16px;
+}
+.price{
+  color:#C1505A;
+  font-size: 48px;
+}
+.collectionImg{
+
+}
+.collectionFont{
+
+}

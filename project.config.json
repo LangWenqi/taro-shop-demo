@@ -1,0 +1,67 @@
+{
+	"miniprogramRoot": "dist/",
+	"projectname": "shop",
+	"description": "",
+	"appid": "wx276fe2e255ae9c68",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true,
+		"autoAudits": false
+	},
+	"compileType": "miniprogram",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"miniprogram": {
+			"current": 4,
+			"list": [
+				{
+					"id": 0,
+					"name": "list",
+					"pathName": "pages/list/list",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "user",
+					"pathName": "pages/user/user",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "search",
+					"pathName": "packageSearch/search/search",
+					"query": ""
+				},
+				{
+					"id": 3,
+					"name": "product",
+					"pathName": "packageProduct/product/product",
+					"query": "id=10005"
+				},
+				{
+					"id": 4,
+					"name": "login",
+					"pathName": "packageLogin/login/login",
+					"query": "loginType=50005"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,77 @@
+.userMessage {
+  padding: 52px 48px;
+}
+
+.userPhoto {
+  width: 112px;
+  height: 112px;
+  border: 6px solid #DDDFE1;
+  overflow: hidden;
+  margin-right: 32px;
+  border-radius: 100%;
+}
+
+.userImg {
+  width: 100%;
+  height: 100%;
+}
+
+.userName {
+  color: #21222D;
+  font-size: 36px;
+}
+
+.count {
+  font-weight: bold;
+  font-size: 44px;
+}
+
+.helpFont {
+  padding-top: 8px;
+  color: #B0B3C0;
+  font-size: 28px;
+}
+
+.title {
+  color: #282935;
+  font-size: 32px;
+}
+
+.countMessage {
+  box-shadow: 0px 2px 12px 0px rgba(203, 206, 216, 0.22);
+  padding: 0 48px 40px;
+}
+
+.countItem {
+  margin-right: 170px;
+}
+
+.list {
+  padding: 40px 0;
+}
+
+.item {
+  height: 100px;
+  padding: 0 36px 0 54px;
+}
+
+.iconLeft {
+  width: 64px;
+  height: 64px;
+  margin-right: 24px;
+}
+
+.itemFont {
+  color: #282935;
+  font-size: 32px;
+  width: 0;
+}
+.itemNum{
+  color:#9B9B9B;
+  font-size: 30px;
+  margin: 0 16px;
+}
+.iconRight {
+  width: 18px;
+  height: 28px;
+}
